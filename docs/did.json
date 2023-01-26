@@ -1,11 +1,11 @@
 {
   "@context": "https://www.w3.org/ns/did/v1",
-  "id": "did:web:ohtaketaishi.github.io:ohtaketaishi_did-web.github.io",
+  "id": "did:web:ohtaketaishi.github.io:did-web-test",
   "verificationMethod": [
     {
-      "id": "did:web:ohtaketaishi.github.io:ohtaketaishi_did-web.github.io#key1",
+      "id": "did:web:ohtaketaishi.github.io:did-web-test#key1",
       "type": "Ed25519VerificationKey2020",
-      "controller": "did:web:ohtaketaishi.github.io:ohtaketaishi_did-web.github.io",
+      "controller": "did:web:ohtaketaishi.github.did-web-test",
       "publicKeyJwk": {
         "kty": "OKP",
         "x": "SZcrHlnvGAWFACrEeAmt9m81LC3y6rWWGObqW9t97vA",
@@ -14,9 +14,9 @@
     }
   ],
   "authentication": [
-    "did:web:ohtaketaishi.github.io:ohtaketaishi_did-web.github.io#key1"
+    "did:web:ohtaketaishi.github.io:did-web-test#key1"
   ],
   "assertionMethod": [
-    "did:web:ohtaketaishi.github.io:ohtaketaishi_did-web.github.io#key1"
+    "did:web:ohtaketaishi.github.io:did-web-test#key1"
   ]
 }
