@@ -4,7 +4,7 @@
   "verificationMethod": [
     {
       "id": "did:web:ohtaketaishi.github.io:ohtaketaishi_did-web.github.io#key1",
-      "type": "EcdsaSecp256k1VerificationKey2019",
+      "type": "Ed25519VerificationKey2020",
       "controller": "did:web:ohtaketaishi.github.io:ohtaketaishi_did-web.github.io",
       "publicKeyJwk": {
         "kty": "OKP",
