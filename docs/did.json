@@ -8,8 +8,8 @@
       "controller": "did:web:ohtaketaishi.github.did-web-test",
       "publicKeyJwk": {
         "kty": "OKP",
-        "x": "SZcrHlnvGAWFACrEeAmt9m81LC3y6rWWGObqW9t97vA",
-        "crv": "Ed25519"
+        "crv": "Ed25519",
+        "x": "SZcrHlnvGAWFACrEeAmt9m81LC3y6rWWGObqW9t97vA"
       }
     }
   ],
