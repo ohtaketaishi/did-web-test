@@ -3,7 +3,7 @@
   "id": "did:web:ohtaketaishi.github.io:did-web-test",
   "verificationMethod": [
     {
-      "id": "did:web:ohtaketaishi.github.io:did-web-test#key1",
+      "id": "did:web:ohtaketaishi.github.io:did-web-test#key2",
       "type": "Ed25519VerificationKey2020",
       "controller": "did:web:ohtaketaishi.github.did-web-test",
       "publicKeyJwk": {
@@ -14,7 +14,7 @@
     }
   ],
   "authentication": [
-    "did:web:ohtaketaishi.github.io:did-web-test#key1"
+    "did:web:ohtaketaishi.github.io:did-web-test#key2"
   ],
   "assertionMethod": [
     "did:web:ohtaketaishi.github.io:did-web-test#key1"
